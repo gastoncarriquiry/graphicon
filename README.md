@@ -5,7 +5,7 @@ One-page designed and developed for a fictional convention for graphic designers
 
 
 ## Live View
-[Running website](https://www.linkedin.com/gastoncarriquiry)
+[Running website](http://gcarriquiry.atwebpages.com/Graphicon/index.html)
 ## Run Locally
 
 This is a simple project with no dependencies. Pure vanilla. To deploy this project, run
